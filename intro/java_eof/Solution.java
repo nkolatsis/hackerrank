@@ -2,6 +2,8 @@ package intro.java_eof;
 
 import java.util.Scanner;
 
+// https://www.hackerrank.com/challenges/java-end-of-file/problem
+
 /* Sample Input
 Hello world
 I am a file
